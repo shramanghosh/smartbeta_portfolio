@@ -6,16 +6,26 @@ This was developed as a part of the AI for Trading Nanodegree offered by Udacity
 
 # Structure 
 
-Part 1: Building a portfolio using dividend yields to calculate index weights
-1.1 Generate dollar volume weights \n
+Part 1: Building a portfolio using dividend yields to calculate index weights:
+
+1.1 Generate dollar volume weights 
+
 1.2 Generate portfolio weights using a dividend weighted strategy
+
 1.3 Generate portfolio returns 
+
 1.4 Generate weighted returns 
+
 1.5 Generate cumulative returns 
+
 1.6 Calculate Tracking Error
 
-Part 2: Portfolio Optimization
+Part 2: Portfolio Optimization:
+
 2.1 Generate Covriance matrix
+
 2.2 Generate Optimal weights for the portfolio
+
 2.3 Rebalance portfolio over time 
+
 2.4 Calculate portfolio turnover
